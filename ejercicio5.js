@@ -12,3 +12,6 @@ while (numeroUsuario != numeroSecreto) {
 }
 
 console.log("¡Felicidades! Has adivinado el número secreto.");
+
+// profe este lo puse a ejecutar desde el index.html para no instalar complementos que lo permitan hacer
+// en la consola
